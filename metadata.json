@@ -1,0 +1,8 @@
+{
+  "name": "Never Miss Alerts",
+  "description": "Official APK download portal for Never Miss Alerts, automatically synced with the latest GitHub release.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
